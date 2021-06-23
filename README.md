@@ -1,3 +1,3 @@
 # RockPaperScissors
-The classic console test app - results are saved in a database somewhere in Leeds
-The database is on shared hosing.
+The classic console test app - Game statistic are saved in a database.
+The database is on shared hosing, WHUK.  
